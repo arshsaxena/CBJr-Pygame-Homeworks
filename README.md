@@ -6,6 +6,7 @@
 • <b>First Quiz:</b> TBD <br>
 • <b>Last Quiz:</b> TBD <br>
 • <b>Total Quizzes:</b> 00 <br><br>
+• <b>Doubt-solving classes on Zoom:</b> 01 <br><br>
 • <b>First Test Date:</b> TBD <br>
 • <b>Second Test Date:</b> TBD <br>
 • <b>Test Result Date:</b> TBD <br>
